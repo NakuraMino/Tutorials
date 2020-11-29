@@ -1,6 +1,6 @@
 # Tutorials
 
-I am dedicating this repository to all code I ~copy~ write from various tutorials I find. Following tutorials is a nice and easy way to gain a lot of different skills. It gets annoying when I have to find out where to store all these different snippets of tutorial code, so this repo will not be my tutorial repository. 
+I am dedicating this repository to all code I ~copy~ write from various tutorials I find. Following tutorials is a nice and easy way to gain a lot of different skills. It gets annoying when I have to find out where to store all these different snippets of tutorial code, so this repo will be my tutorial repository. 
 
 
 ### Links: 
